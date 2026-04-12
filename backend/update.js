@@ -25,7 +25,21 @@ const curators = [
     'SpinningCube',
     'alexandretherrien',
     's_federici',
-    'axolotan'
+    'axolotan',
+    '1BellaPup',
+    'ChessProking-tm',
+    'samkov',
+    'ChuckSploder',
+    'Derble',
+    'finnagin5',
+    'oh261401',
+    'piano_miles',
+    'MathMathMath',
+    'alps88',
+    'skyset',
+    'alphabetica',
+    'ggenije',
+    'Hobson-TV'
 ]
 
 async function getFavorites(user) {
